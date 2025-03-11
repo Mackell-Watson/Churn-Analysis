@@ -1,6 +1,6 @@
 #  Churn Analysis - Dashboard
 
-### Dashboard Link : 
+### Dashboard Link : https://github.com/Mackell-Watson/Churn-Analysis/blob/main/Churn%20Analysis%20-%20Summary.pbix 
 
 ## Key Objectives:
 
