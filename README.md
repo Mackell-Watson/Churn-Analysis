@@ -36,6 +36,8 @@ Churn rate by gender (e.g., male vs. female).
 Churn distribution by age group (e.g., 20–35 years have a churn rate of ~24%).
 Geographic Analysis:
 
+![Image](https://github.com/user-attachments/assets/55de0139-b96a-4a20-a9fe-dc44766133aa)
+
 Top states with the highest churn rates (e.g., Jammu has the highest at 57.2%).
 Service-Related Insights:
 
