@@ -19,7 +19,7 @@ Implementing Change Management with Business Insights and Visuals will empower o
 
 
 This Churn Analysis Summary Dashboard provides a comprehensive overview of customer churn trends, segmented by key demographics, service usage, and geographic factors. Here's a snapshot of the insights it delivers:
-![Image](https://github.com/user-attachments/assets/4c0f2528-880d-4a84-8573-fb022b1a5d77)
+
 Key Metrics:
 Total Customers: 6,418
 New Joiners: 411
@@ -27,7 +27,7 @@ Total Churned Customers: 1,732
 Overall Churn Rate: 27.0%
 Churn Breakdown by Factors:
 Demographics:
-
+![Image](https://github.com/user-attachments/assets/4c0f2528-880d-4a84-8573-fb022b1a5d77)
 Churn rate by gender (e.g., male vs. female).
 Churn distribution by age group (e.g., 20–35 years have a churn rate of ~24%).
 Geographic Analysis:
