@@ -70,7 +70,9 @@ This dashboard enables businesses to identify at-risk customers, understand chur
 
 ![Image](https://github.com/user-attachments/assets/58bc290f-e73a-482d-82e0-9a303b8da848)
 
-2.Power Query Data Profiling: Opened Power Query Editor and enabled "Column Distribution," "Column Quality," and "Column Profile" options under the View tab. Adjusted column profiling to analyze the entire dataset.
+2.Power Query/Power BI Editor ensure Data Profiling: Opened Power Query Editor and enabled "Column Distribution," "Column Quality," and "Column Profile" options under the View tab. Adjusted column profiling to analyze the entire dataset.
+
+![Image](https://github.com/user-attachments/assets/4e8f2399-ab59-4a5c-94e6-4ded48b6ba2e)
 
 3.Theme Selection: Applied a predefined theme in the report view under the View tab for better visualization.
 
