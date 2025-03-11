@@ -44,6 +44,9 @@ Service-Related Insights:
 ![Image](https://github.com/user-attachments/assets/925347ea-4c00-4fbc-8675-99c1497ce041)
 
 Churn rate by internet type (e.g., Fiber users churn at 41.1%, DSL at 19.4%).
+
+![Image](https://github.com/user-attachments/assets/c5836586-ae52-438e-a23b-c67a7ffa344c)
+
 Churn by subscribed services (e.g., customers using Online Security have a churn rate of 15.4%).
 Account & Payment Factors:
 
