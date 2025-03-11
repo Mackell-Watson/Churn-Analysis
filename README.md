@@ -28,8 +28,11 @@ Overall Churn Rate: 27.0%
 Churn Breakdown by Factors:
 Demographics:
 ![Image](https://github.com/user-attachments/assets/4c0f2528-880d-4a84-8573-fb022b1a5d77)
+
 Churn rate by gender (e.g., male vs. female).
+
 ![Image](https://github.com/user-attachments/assets/a751d24c-7965-41dc-bc3c-a998d64ddbb6)
+
 Churn distribution by age group (e.g., 20–35 years have a churn rate of ~24%).
 Geographic Analysis:
 
