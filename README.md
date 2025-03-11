@@ -19,7 +19,7 @@ Implementing Change Management with Business Insights and Visuals will empower o
 
 
 This Churn Analysis Summary Dashboard provides a comprehensive overview of customer churn trends, segmented by key demographics, service usage, and geographic factors. Here's a snapshot of the insights it delivers:
-
+![Image](https://github.com/user-attachments/assets/4c0f2528-880d-4a84-8573-fb022b1a5d77)
 Key Metrics:
 Total Customers: 6,418
 New Joiners: 411
