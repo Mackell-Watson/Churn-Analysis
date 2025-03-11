@@ -16,6 +16,8 @@ Implementing Change Management with Business Insights and Visuals will empower o
 
 ## Snapshot of Dashboard (Power BI Service)
 
+https://github.com/Mackell-Watson/Churn-Analysis/blob/main/Churn%20Analysis%20-%20Snapshot.png
+
 This Churn Analysis Summary Dashboard provides a comprehensive overview of customer churn trends, segmented by key demographics, service usage, and geographic factors. Here's a snapshot of the insights it delivers:
 
 Key Metrics:
