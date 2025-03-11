@@ -66,7 +66,9 @@ This dashboard enables businesses to identify at-risk customers, understand chur
 
 ### Steps followed 
 
-1.Load Data: Imported the dataset (CSV file) into Power BI Desktop.
+1.Load Data: Imported the dataset (Excel,CSV,Oracle etc,files) into Power BI Desktop.
+
+![Image](https://github.com/user-attachments/assets/58bc290f-e73a-482d-82e0-9a303b8da848)
 
 2.Power Query Data Profiling: Opened Power Query Editor and enabled "Column Distribution," "Column Quality," and "Column Profile" options under the View tab. Adjusted column profiling to analyze the entire dataset.
 
