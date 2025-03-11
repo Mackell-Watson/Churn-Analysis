@@ -56,6 +56,8 @@ Churn by payment method (e.g., mailed payments have the highest churn at 37.8%).
 Churn by contract type (e.g., monthly contracts have a 46.5% churn rate, while two-year contracts have only 2.7%).
 Churn Distribution & Drivers:
 
+![Image](https://github.com/user-attachments/assets/84772992-899e-4a45-ae2f-f96bf173321f)
+
 Key reasons for churn (e.g., competitive offers contribute to the most churn cases).
 Use Case:
 This dashboard enables businesses to identify at-risk customers, understand churn drivers, and develop data-driven retention strategies to improve customer loyalty and reduce revenue loss.
