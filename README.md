@@ -50,6 +50,8 @@ Churn rate by internet type (e.g., Fiber users churn at 41.1%, DSL at 19.4%).
 Churn by subscribed services (e.g., customers using Online Security have a churn rate of 15.4%).
 Account & Payment Factors:
 
+![Image](https://github.com/user-attachments/assets/d9558207-0ad9-4ea9-9d55-9c552f7ac0b7)
+
 Churn by payment method (e.g., mailed payments have the highest churn at 37.8%).
 Churn by contract type (e.g., monthly contracts have a 46.5% churn rate, while two-year contracts have only 2.7%).
 Churn Distribution & Drivers:
