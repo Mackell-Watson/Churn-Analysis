@@ -41,6 +41,8 @@ Geographic Analysis:
 Top states with the highest churn rates (e.g., Jammu has the highest at 57.2%).
 Service-Related Insights:
 
+![Image](https://github.com/user-attachments/assets/925347ea-4c00-4fbc-8675-99c1497ce041)
+
 Churn rate by internet type (e.g., Fiber users churn at 41.1%, DSL at 19.4%).
 Churn by subscribed services (e.g., customers using Online Security have a churn rate of 15.4%).
 Account & Payment Factors:
