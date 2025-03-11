@@ -15,7 +15,7 @@ Improve Revenue Forecasting: Accurately predict the financial impact of churn to
 Implementing Change Management with Business Insights and Visuals will empower organizations to transform raw data into actionable insights, fostering a customer-centric approach that enhances satisfaction and loyalty.
 
 ## Snapshot of Dashboard (Power BI Service)
-
+![Image](https://github.com/user-attachments/assets/a7cd12b8-e5ba-4e34-9e6f-098923f30243)
 
 
 This Churn Analysis Summary Dashboard provides a comprehensive overview of customer churn trends, segmented by key demographics, service usage, and geographic factors. Here's a snapshot of the insights it delivers:
