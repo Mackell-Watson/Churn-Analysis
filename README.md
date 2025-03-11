@@ -58,7 +58,7 @@ Key reasons for churn (e.g., competitive offers contribute to the most churn cas
 Use Case:
 This dashboard enables businesses to identify at-risk customers, understand churn drivers, and develop data-driven retention strategies to improve customer loyalty and reduce revenue loss.
 
-Would you like me to format this into a proper GitHub README file?
+
 
 ### Steps followed 
 
